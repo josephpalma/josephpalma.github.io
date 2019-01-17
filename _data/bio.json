@@ -1,15 +1,15 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Joseph Palma",
     "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "picture": "https://towndog61.github.io/images/headshot.jpg",
+    "email": "jp61@hawaii.edu",
+    "phone": "410-841-4123",
+    "website": "https://towndog61.github.io",
+    "summary": "I am studying for a B.A. in Computer Science with a concentration in Journalism in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
     "location": {
       "address": "",
-      "postalCode": "96822",
+      "postalCode": "",
       "city": "Honolulu",
       "countryCode": "USA",
       "region": "Hawaii"
@@ -17,42 +17,48 @@
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "towndog61",
+        "url": "http://github.com/towndog61"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
+        "username": "josephpalma",
+        "url": "https://www.linkedin.com/in/joseph-palma-3681b5133/"
       },
       {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
-      },
-      {
-        "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
+        "network": "facebook",
+        "username": "joepalma",
+        "url": "https://www.facebook.com/joe.palma.35?ref=bookmarks"
       }
     ]
   },
   "interests": [
     {
-      "name": "internet of things",
-      "keywords": [
-        "Arduino",
-        "TI MSP430"
-      ]
-    },
-    {
-      "name": "data mining",
+      "name": "software engineering",
       "keywords": [
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "web design",
       "keywords": [
+        "Wordpress",
+        "Divi"
+      ]
+    },
+    {
+      "name": "graphic design",
+      "keywords": [
+        "Adobe",
+        "Photoshop",
+        "Illustrator",
+        "In-Design"
+      ]
+    },
+    {
+      "name": "cloud computing",
+      "keywords": [
+        "Google Cloud Platform",
+        "VM servers"
       ]
     }
   ],
@@ -61,62 +67,56 @@
       "name": "Languages and Frameworks",
       "level": "",
       "keywords": [
-        "C",
-        "C++",
         "Java",
         "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "html",
+        "CSS",
+        "Powershell"
       ]
     },
     {
       "name": "Toolsets/OS",
       "level": "",
       "keywords": [
-        "MacOS",
         "Ubuntu",
+        "Kali Linux"
         "Git/GitHub",
-        "g++",
         "TI LaunchPad"
       ]
-    }
+    },
+    
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "area": "Computer Science (expected Spring, 2020)",
+      "studyType": "B.A.",
+      "startDate": "2016-09-01",
       "endDate": "Present",
-      "gpa": "",
+      "gpa": "3.5",
       "courses": [
       ]
     }
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
-      "website": "",
-      "startDate": "2015-08-01",
-      "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "company": "Chelsea Group, ltd.",
+      "position": "Marketing Intern",
+      "website": "https://www.chelsea-grp.com/",
+      "startDate": "2016-08-01",
+      "endDate": "2018-09-01 (sold to Ameresco)",
+      "summary": "Build and maintain website, create marekting materials and run events.",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Maintain, update, and oversee professional website",
+        "Drive, design and build professional graphics for Chelsea Group."
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
-      "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
-      ]
+      "company": "Ameresco",
+      "position": "Marketing Intern",
+      "website": "http://www.ameresco.com/",
+      "startDate": "2018-09-01",
+      "endDate": "present",
     }
   ],
   "volunteer": [
@@ -131,34 +131,15 @@
         "Design firmware for distributed weather sensor network",
         "Maintain custom data collection and storage infrastructure"
       ]
-    },
-    {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
-      ]
     }
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      "title": "Creative Media Scholarship",
+      "date": "2014",
+      "awarder": "State of Maryland",
+      "summary": "Scholarships awarded to 1st place winner in a creative media contest."
     },
-    {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
-    }
   ],
   "references": [
     {
