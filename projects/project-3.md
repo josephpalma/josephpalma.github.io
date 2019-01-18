@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: https://upload.wikimedia.org/wikipedia/commons/7/7b/Adobe_Systems_logo_and_wordmark.svg
+image: images/Adobe-Red-01.png
 title: Graphic Design
 permalink: projects/cotton
 # All dates must be YYYY-MM-DD format!
