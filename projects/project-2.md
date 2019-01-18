@@ -25,4 +25,3 @@ Vacay is implemented using [Meteor](http://meteor.com), a JavaScript application
 [Seafile] (https://www.seafile.com/en/home/)
 [Docker] (https://www.docker.com/)
 
-Source: <a href="https://github.com/theVacay/vacay"><i class="large github icon"></i>theVacay/vacay</a>
