@@ -13,8 +13,6 @@ labels:
 summary: I produce high quality professional graphics for businesses, artists and DJ's.
 ---
 
-<img class="ui image" src="{{ site.baseurl }}/images/Joe Palma Heavens.jpg">
-<img class="ui image" src="{{ site.baseurl }}/images/Palms-Logo-Official.png">
-<img class="ui image" src="{{ site.baseurl }}/images/Spring Break Final.jpg">
+<img class="ui image" src="{{ site.baseurl }}/images/graphic-design-project-page.png">
 
 I have access to the full Adobe Creative Cloud Suite and an expanding collection of premium fonts, brushes, vector images and assets. I also have a background in painting, drawing and photography and a solid understanding of design and material theory.
