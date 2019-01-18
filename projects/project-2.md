@@ -21,6 +21,4 @@ The drive is found locally as a external media server. It utilizes the Seafile o
 This project developed as a way to easily store and access large amounts of music. Eventually I want to develop cloud enabled thumb drives that hold no memory but are connected to the internet and act as a bridge between a computer and the cloud.
 
 [Google Cloud Platform ](https://cloud.google.com/) 
-[Seafile] (https://www.seafile.com/en/home/)
-[Docker] (https://www.docker.com/)
 
