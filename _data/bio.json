@@ -2,10 +2,10 @@
   "basics": {
     "name": "Joseph Palma",
     "label": "Student",
-    "picture": "https://towndog61.github.io/images/headshot.jpg",
+    "picture": "https://josephpalma.github.io/images/headshot.jpg",
     "email": "jp61@hawaii.edu",
     "phone": "410-841-4123",
-    "website": "https://towndog61.github.io",
+    "website": "https://josephpalma.github.io",
     "summary": "I am studying for a B.A. in Computer Science with a concentration in Journalism in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
     "location": {
       "address": "",
@@ -17,8 +17,8 @@
     "profiles": [
       {
         "network": "github",
-        "username": "towndog61",
-        "url": "http://github.com/towndog61"
+        "username": "josephpalma",
+        "url": "http://github.com/josephpalma"
       },
       {
         "network": "linkedin",
