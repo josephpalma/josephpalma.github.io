@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/vacay-square.png
+image: https://assets.pcmag.com/media/images/349409-back-up-your-cloud-how-to-download-all-your-data.jpg
 title: Personal Cloud
 permalink: projects/vacay
 # All dates must be YYYY-MM-DD format!
