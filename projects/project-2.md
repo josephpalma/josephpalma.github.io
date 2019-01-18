@@ -2,24 +2,27 @@
 layout: project
 type: project
 image: images/vacay-square.png
-title: Vacay
+title: Personal Cloud
 permalink: projects/vacay
 # All dates must be YYYY-MM-DD format!
-date: 2015-12-15
+date: 2018-12-15
 labels:
-  - Javascript
-  - Meteor
-  - MongoDB
-  - GitHub
-summary: A responsive web application for travel planning that my team developed in ICS 415.
+  - SQL
+  - Google Cloud Platform
+  - Seafile
+  - Docker
+summary: An affordable and automatable two-way cloud architecture designed around my personal music collection with easy access on any machine.
 ---
 
-<img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
+<img class="ui medium right floated rounded image" src="https://assets.pcmag.com/media/images/349409-back-up-your-cloud-how-to-download-all-your-data.jpg">
 
+This project is still on-going. When it is finished it will be a cloud system designed to take the storage load off any hard drive. Using the repositories on the Google Cloud Platform, that way you only pay for what you use. Specifically you pay for each file transfer. The drive is found locally as a external media server. It utilizes the Seafile open souce server project, the cloud is deployed to the Seafile server using Docker. 
 Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
 
 Vacay is implemented using [Meteor](http://meteor.com), a JavaScript application platform. Within two weeks, we created a website that implements several types of reservations including flights, hotels, and car rentals.
 
-In this project I gained experience with full-stack web application design and associated technologies, including [MongoDB](http://mongodb.com) for database storage, the [Twitter Bootstrap](http://getbootstrap.com/) CSS Framework for the user interface, and Javascript for both client and server-side programming. 
- 
+[Google Cloud Platform ](https://cloud.google.com/) 
+[Seafile] (https://www.seafile.com/en/home/)
+[Docker] (https://www.docker.com/)
+
 Source: <a href="https://github.com/theVacay/vacay"><i class="large github icon"></i>theVacay/vacay</a>
