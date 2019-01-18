@@ -26,7 +26,7 @@ I designed and built a professional website for a Mechanical Engineering firm. I
 
 For this project, I assummed the role of designer, programmer, graphic designer, photographer and content producer. My contributions added to the value of the company, which was then bought by the mainland behemouth; Ameresco.
 
-You can learn more about the value-driven aquisition here[UH Micromouse Website](https://www.ameresco.com/ameresco-acquires-chelsea-group-limited-to-expand-commercial-retail-and-industrial-services-in-hawaii/).
+You can learn more about the value-driven aquisition here [Ameresco Aquires Chelsea Group](https://www.ameresco.com/ameresco-acquires-chelsea-group-limited-to-expand-commercial-retail-and-industrial-services-in-hawaii/).
 
 
 
