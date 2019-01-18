@@ -16,10 +16,10 @@ summary: Designed and built a professional website using a variety of tools.
 ---
 
 <div class="ui small rounded images">
-  <img class="ui image" src="../images/DSC_0230.JPG">
-  <img class="ui image" src="../images/Alii-King-Kam-Light.jpg">
-  <img class="ui image" src="../images/micromouse.jpg">
-  <img class="ui image" src="../images/micromouse-circuit.png">
+  <img class="ui image" src="../images/pump-icon-real2.png">
+  <img class="ui image" src="../images/BAS.png">
+  <img class="ui image" src="../images/chiller-icon new.png">
+  <img class="ui image" src="../images/PCA-icon-new2.png">
 </div>
 
 I designed and built a professional website for a Mechanical Engineering firm. I used Wordpress to implement Divi's Child Theme to bring a modern and slick feel to a linear one page design. I maintained the site, making minor syle changes and cycling out the content to reflect the vitality of the company.
