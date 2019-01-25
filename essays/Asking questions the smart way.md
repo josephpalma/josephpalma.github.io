@@ -13,7 +13,7 @@ labels:
 
 ### Exemplifying Good Questions 
 
-<img class="ui small left floated rounded image" scr="/images/questionasking.jpg">
+<img class="ui small left floated rounded image" scr="{{ site.baseurl }}/images/questionasking.jpg">
 
 Eric Raymonds *How To Ask Questions The Smart Way* spurred some thought in my mind as to the mass quantity of programming questions on the Internet and the sub-group of good and bad questions. It is undeniable that the search engine is the most useful thing thats ever happened to the software developer. Since the advent of the Internet we have been able to connect and share problems seamlessly. The Internet is designed to permanently archive every minute addition to its canals. This is a great thing for the skilled indexer, so as the vast trove of information that extends their current knowledge. But for the novice it is hard not to let this expanse of data become a dark hallway where all screams go unanswered.
 
