@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/cloud graphic.jpg	
 title: Personal Cloud
-permalink: projects/vacay
+permalink: projects/personalcloud
 # All dates must be YYYY-MM-DD format!
 date: 2018-12-15
 labels:
