@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: josephpalma.github.io/images/mini logo.png
+image: josephpalma.github.io/images/wd-project-cover.jpg
 title: Chelsea Group Website
 permalink: projects/micromouse
 # All dates must be YYYY-MM-DD format!
