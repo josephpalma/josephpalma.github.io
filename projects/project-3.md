@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/Adobe-Red-01.png
 title: Graphic Design
-permalink: projects/cotton
+permalink: projects/graphicdesign
 # All dates must be YYYY-MM-DD format!
 date: 2014-04-12
 labels:
