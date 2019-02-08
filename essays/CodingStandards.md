@@ -17,7 +17,7 @@ Coding standards are a defined set of programming guidelines & best practices th
 
 ### Effective Standards 
 
-The code style I have worked in thus far has been very effective for learning coding concepts. When learning Java in Eclipse, we applied Checkstyle, an automated coding standard checker. Some examples of some conventions I found most successful for learning: 
+The code style I have worked in thus far has been very effective for learning coding concepts. When learning Java in Eclipse, we applied Checkstyle, an automated coding standard checker. Some examples of conventions I found most successful for learning: 
   - All block closing brackets need to go on a separate line
   - All methods and classes must be separated by one line
   - No more than one statement per line
