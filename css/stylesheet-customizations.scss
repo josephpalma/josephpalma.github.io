@@ -7,13 +7,14 @@
 
 // Customize the background color
 body {
-  background-image: linear-gradient(to bottom left, #82D688, #437E47);
+  background-image: linear-gradient(to bottom left, #ffffff, #d9d9d9);
   font-weight: bold;
 }
 
 // Customize the menubar color
 .ui.menu {
-  background: black;
+  background: lightgrey;
+  text-color: black;
 }
 
 // Customize the home page icon colors
