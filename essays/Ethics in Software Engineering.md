@@ -9,9 +9,7 @@ labels:
   - Politics
 ---
 
-## **By Joe Palma**
-
-### Ethics in Software Engineering 
+# **By Joe Palma**
 
 ## Discrepencies in Engineering Ethics
 
