@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/gd-project-cover.jpg
+image: images/Adobe-Red-02.jpg
 title: Graphic Design
 permalink: projects/graphicdesign
 # All dates must be YYYY-MM-DD format!
