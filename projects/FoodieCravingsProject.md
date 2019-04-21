@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: https://github.com/foodiecravings/foodiecravings/blob/master/app/public/images/logo.png
-titleFoodie Cravings Web App
+title: Foodie Cravings Web App
 permalink: projects/foodiecravings
 # All dates must be YYYY-MM-DD format!
 date: 2019-10-5
