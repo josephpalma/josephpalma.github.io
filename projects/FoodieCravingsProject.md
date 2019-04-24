@@ -24,5 +24,5 @@ As of 4-20-19 Foodie Cravings is still a work in progress. It will be brought to
 A summary of our web app, along with installation instructions can be found [here](https://github.com/foodiecravings/foodiecravings.github.io/blob/master/index.md).
 
 <div class="ui small rounded images">
-  <img class="ui image" src="/images/landing.png">
+  <img class="ui image" src="../images/landing.png">
 </div>
