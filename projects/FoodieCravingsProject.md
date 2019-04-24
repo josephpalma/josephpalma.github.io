@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/logo.png
+image: images/logo350x250px.png
 title: Foodie Cravings Web App
 permalink: projects/foodiecravings
 # All dates must be YYYY-MM-DD format!
