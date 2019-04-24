@@ -34,12 +34,12 @@
   },
   "interests": [
     {
-      "name": "software engineering",
+      "name": "Software Engineering",
       "keywords": [
       ]
     },
     {
-      "name": "web design",
+      "name": "Web Design",
       "keywords": [
         "React",
         "Meteor",
@@ -48,7 +48,7 @@
       ]
     },
     {
-      "name": "graphic design",
+      "name": "Graphic Design",
       "keywords": [
         "Adobe",
         "Photoshop",
@@ -57,7 +57,7 @@
       ]
     },
     {
-      "name": "cloud computing",
+      "name": "Cloud Computing",
       "keywords": [
         "Google Cloud Platform",
         "VM servers"
