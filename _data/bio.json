@@ -3,7 +3,7 @@
     "name": "Joseph Palma",
     "label": "Student",
     "picture": "https://josephpalma.github.io/images/headshot.jpg",
-    "email": "jp61@hawaii.edu",
+    "email": "joepalma08@hotmail.com",
     "phone": "410-841-4123",
     "website": "https://josephpalma.github.io",
     "summary": "I am studying for a B.A. in Computer Science with a concentration in Journalism in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2021.",
@@ -41,8 +41,10 @@
     {
       "name": "web design",
       "keywords": [
-        "Wordpress",
-        "Divi"
+        "React",
+        "Meteor",
+        "Mongo DB",
+        "Wordpress"
       ]
     },
     {
@@ -69,7 +71,7 @@
       "keywords": [
         "Java",
         "Javascript",
-        "html",
+        "Html",
         "CSS",
         "Powershell"
       ]
@@ -89,12 +91,15 @@
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2020)",
+      "area": "Computer Science (expected Spring, 2021)",
       "studyType": "B.A.",
       "startDate": "2016-09-01",
       "endDate": "Present",
       "gpa": "3.5",
       "courses": [
+        "Java",
+        "Algorithms",
+        "Software Engineering"
       ]
     }
   ],
@@ -102,10 +107,10 @@
     {
       "company": "Chelsea Group, ltd.",
       "position": "Marketing Intern",
-      "website": "https://www.chelsea-grp.com/",
+      "website": "https://www.chelsea-grp.com/ (Domain inactive as of 2018)",
       "startDate": "2016-08-01",
-      "endDate": "2018-09-01 (sold to Ameresco)",
-      "summary": "Build and maintain website, create marekting materials and run events.",
+      "endDate": "2018-09-01",
+      "summary": "Build and maintain website, create marketing materials and run events.",
       "highlights": [
         "Maintain, update, and oversee professional website",
         "Drive, design and build professional graphics for Chelsea Group."
