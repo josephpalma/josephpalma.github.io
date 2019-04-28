@@ -8,9 +8,7 @@ labels:
   - MVC Design
 ---
 
-## **By Joe Palma**
-
-### Personal Design Patterns and Preferences
+### **By Joe Palma**
 
 ## Design is Everywhere
 
