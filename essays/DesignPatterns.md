@@ -12,7 +12,7 @@ labels:
 
 ## Design is Everywhere
 Look around you and notice something that has a functional design. What is it? Who made it? Before this object existed, what event took place that required its inception?
-As evolved cave people we use tools to do things, and engineers and creatives face issues of functionality all the time. We solve these issues by using existing tools in a new and different way, or designing our own to do such a task. However, the issue of optimal design is mutually exclusive.
+As evolved cave people we use tools to do things, and engineers and creatives face issues of functionality all the time. We solve these issues by using existing tools in a new and different way, or designing our own to do such a task. However, the issue of optimal design are mutually exclusive.
 Design patterns are repeatable solutions to common software engineering problems. They are general templates that require optimization for your specific implementation. Using the patterns to their fullest takes experience, but once fine-tuned, they will work for you.
 
 ## My Experience With Design Patterns
