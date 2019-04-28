@@ -36,13 +36,13 @@ The core of my systems re-usability comes from these various implementations of 
   
 ### Behavorial Design
 My creative side comes out when I use these patterns:
-  -Chain of Responsibility in all languages
-  -Interpreter in Javascript
-  -Iterator in all languages
-  -Mediator in JavaScript 
-  -Memento in all languages
-  -Observer in Javascript
-  -Null Object, State, and Strategy in all languages
+  - Chain of Responsibility in all languages
+  - Interpreter in Javascript
+  - Iterator in all languages
+  - Mediator in JavaScript 
+  - Memento in all languages
+  - Observer in Javascript
+  - Null Object, State, and Strategy in all languages
   
 ## My Design Preferences
 My experience in the core languages, Java and C++, had me relying quite heavily on the factory designs. Utilizing the black boxes provided by the languages API is the most effective way to me achieve my goals in implementation. I often get creative with the builder design, using the constructor to do most of the work for me. Complex implementations require using the adapter technique, where simple ones can be done with a singleton instance, however I try to stray from using the singleton design pattern. The bridge design has proven successful for code reusability and is very effective when implementing algorithms.
