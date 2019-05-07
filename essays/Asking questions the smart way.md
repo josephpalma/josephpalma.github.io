@@ -2,15 +2,13 @@
 layout: essay
 type: essay
 title: Exemplifying Good Questions
-preview: How and where to ask good questions in the age of information
+preview: How and where to ask good questions in the age of information.
 date: 2019-01-24
 labels:
   - Open Source Community
   - Github
   - StackOverflow
 ---
-
-## **By Joe Palma**
 
 ### Exemplifying Good Questions 
 
