@@ -24,7 +24,7 @@ summary: Designed and built a professional website using a variety of tools.
 
 I designed and built a professional website for a Mechanical Engineering firm. I used Wordpress to implement Divi's Child Theme to bring a modern and slick feel to a linear one page design. I maintained the site, making minor style changes and cycling out the content to reflect the vitality of the company.
 
-For this project, I assumed the role of designer, programmer, graphic designer, photographer and content producer. My contributions added to the value of the company, which was then bought by the mainland behemouth; Ameresco.
+For this project, I assumed the role of designer, programmer, graphic designer, photographer and content producer. My contributions added to the value of the company, which was then bought by the mainland behemoth; Ameresco.
 
 You can learn more about the value-driven acquisition here [Ameresco Acquires Chelsea Group](https://www.ameresco.com/ameresco-acquires-chelsea-group-limited-to-expand-commercial-retail-and-industrial-services-in-hawaii/).
 
