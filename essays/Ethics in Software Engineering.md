@@ -1,15 +1,14 @@
 ﻿---
 layout: essay
 type: essay
-title: Ethics Code and the Case of Facebook
+title: Ethics; Your're Gonna Need Them
+preview: A look at ethical implications in software engineering and the case of Facebook.
 date: 2019-04-19
 labels:
   - ACM Code of Ethics
   - Facebook
   - Politics
 ---
-
-# **By Joe Palma**
 
 ## Discrepencies in Engineering Ethics
 
