@@ -24,5 +24,5 @@ My primary role in the project was implementing the React search bar.
 A summary of our web app, along with installation instructions can be found [here](https://github.com/foodiecravings/foodiecravings.github.io/blob/master/index.md).
 
 <div>
-  <img class="ui image" src="../images/landing.PNG">
+  <img class="ui image" src="../images/landingsmall.PNG">
 </div>
