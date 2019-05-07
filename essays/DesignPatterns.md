@@ -1,7 +1,8 @@
 ﻿---
 layout: essay
 type: essay
-title: Personal Design Patterns and Preferences
+title: Design Patterns 
+preview: My personal patterns and preferences.
 date: 2019-04-19
 labels:
   - Factory Design
