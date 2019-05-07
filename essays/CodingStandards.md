@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 title: Coding Standards
-preview: A programmers prespective and personal standards.
+preview: My personal standards: a programmers prespective.
 date: 2019-01-24
 labels:
   - JavaScript
