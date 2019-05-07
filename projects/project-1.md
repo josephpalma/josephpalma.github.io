@@ -3,7 +3,7 @@ layout: project
 type: project
 image: josephpalma.github.io/images/wd-project-cover.jpg
 title: Chelsea Group Website
-permalink: projects/webdesign
+permalink: projects/chelseagroupwebsite
 # All dates must be YYYY-MM-DD format!
 date: 2016-08-01
 labels:
