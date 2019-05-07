@@ -1,7 +1,7 @@
 ﻿---
 layout: essay
 type: essay
-title: Ethics in Software Engineering
+title: Ethics Code and the Case of Facebook
 date: 2019-04-19
 labels:
   - ACM Code of Ethics
