@@ -13,7 +13,7 @@ labels:
 summary: I produce high quality professional graphics for businesses, artists and DJ's.
 ---
 
-I have access to the full Adobe Creative Cloud Suite and an expanding collection of premium fonts, brushes, vector images and assets. I also have a background in painting, drawing and photography and a solid understanding of design and material theory. The Adobe Suite is a powerful tool for designers, it amplifyings web development and allows you to use custom photos for designs.
+I have access to the full Adobe Creative Cloud Suite and an expanding collection of premium fonts, brushes, vector images and assets. I also have a background in painting, drawing and photography and a solid understanding of design and material theory. The Adobe Suite is a powerful tool for designers, it amplifies web development and allows you to use custom photos for designs.
 
 I first started with Adobe two years ago. My primary tools are Photoshop, Illustrator and Indesign. I produce high quality professional marketing designs, custom backgrounds, event posters and logos. 
 
