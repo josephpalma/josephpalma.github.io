@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: josephpalma.github.io/images/logo350x250px.png
+image: josephpalma.github.io/images/logo375x307px.png
 title: Foodie Cravings Web App
 permalink: projects/foodiecravings
 # All dates must be YYYY-MM-DD format!
