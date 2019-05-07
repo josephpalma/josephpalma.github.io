@@ -2,12 +2,15 @@
 layout: essay
 type: essay
 title: UI Frameworks
+preview: The browser is your canvas.
 date: 2019-01-24
 labels:
   - Semantic UI
   - CSS
   - Html
 ---
+
+### The Browser Is Your Canvas
 
 The UI framework is a creative medium for technical minds. It's architecture is bounded to the design of the Html language. It's tag-ular components allow for nearly full functionality inside any Html document. Of course the incorporation of CSS extends the application of style. The cascading sheets are intuitive additions to any design. The script component allows you to link any script to an Html document.
 
