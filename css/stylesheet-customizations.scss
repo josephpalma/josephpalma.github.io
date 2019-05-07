@@ -14,7 +14,8 @@ body {
 
 // Customize the menubar color
 .ui.menu {
-  background-color: rgba(245, 222, 179,.85);
+  //background-color: rgba(245, 222, 179,.85);
+  color: darken(#CDBB79, 25%);
   text-color: black;
   font-weight: bold;
 }
