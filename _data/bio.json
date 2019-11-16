@@ -105,6 +105,26 @@
   ],
   "work": [
     {
+      "company": "KTUH FM",
+      "position": "Web Director",
+      "website": "ktuh.org",
+      "startDate": "2019-05-01",
+      "endDate": "current",
+      "summary": "Directed a team of developers to build a professional website and oversee it's on-going maintanence",
+      "highlights": [
+        "Built a Wordpress website using a custom React theme.",
+        "Managed a team of four to deliever our product on time.",
+        "Provide IT web assistance for the radio station."
+      ]
+    },
+    {
+      "company": "Ameresco",
+      "position": "Marketing Intern",
+      "website": "http://www.ameresco.com/",
+      "startDate": "2018-09-01",
+      "endDate": "present",
+    }
+    {
       "company": "Chelsea Group, ltd.",
       "position": "Marketing Intern",
       "website": "https://www.chelsea-grp.com/ (Domain inactive as of 2018)",
@@ -119,13 +139,6 @@
         "Assisted in planning, coordinating and running marketing events."
       ]
     },
-    {
-      "company": "Ameresco",
-      "position": "Marketing Intern",
-      "website": "http://www.ameresco.com/",
-      "startDate": "2018-09-01",
-      "endDate": "present",
-    }
   ],
   "awards": [
     {
