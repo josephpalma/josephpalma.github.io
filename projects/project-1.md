@@ -13,7 +13,7 @@ labels:
 summary: Working with a team of 3 improved usability, automation, and scalability in a feature rich web application. 
 ---
 
-Working with a team of 3, created a custom react theme with minimal dependency's. The theme was implemented in Wordpress for maximum usability.
+As web Director, I worked with a team of 3 to create a custom react theme with minimal dependency's. The theme was implemented in Wordpress for maximum usability.
 
 The website has hundreds of visitors at any given moment live streaming from the air. Station DJs maintain the site with blog posts, music reviews, events and podcasts. 
 
