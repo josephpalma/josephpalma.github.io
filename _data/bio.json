@@ -24,11 +24,6 @@
         "network": "linkedin",
         "username": "josephpalma",
         "url": "https://www.linkedin.com/in/joseph-palma-3681b5133/"
-      },
-      {
-        "network": "facebook",
-        "username": "joepalma",
-        "url": "https://www.facebook.com/joe.palma.35?ref=bookmarks"
       }
     ]
   },
@@ -107,7 +102,7 @@
     {
       "company": "KTUH FM",
       "position": "Web Director",
-      "website": "ktuh.org",
+      "website": "https://www.ktuh.org",
       "startDate": "2019-05-01",
       "endDate": "current",
       "summary": "Directed a team of developers to build a professional website and oversee it's on-going maintanence",
