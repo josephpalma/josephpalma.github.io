@@ -26,4 +26,4 @@ Features include:
   - Themed background videos
   
   
-<img class="ui small left floated image" src="{{ site.baseurl }}/images/ktuh.png">
+<img class="ui small left floated image" src="{{ site.baseurl }}/images/ktuh.png"/>
