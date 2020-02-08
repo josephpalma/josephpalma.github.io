@@ -17,6 +17,8 @@ Working with a team of 3, created a custom react theme with minimal dependency's
 
 The website has hundreds of visitors at any given moment live streaming from the air. Station DJs maintain the site with blog posts, music reviews, events and podcasts. 
 
+To demo: <a href="ktuh.org">ktuh.org</a>
+
 Features include:
   - Live streaming from the air
   - Radio shows archived and available for download for one week
@@ -24,6 +26,4 @@ Features include:
   - Themed background videos
   
   
-<img class="ui small left floated image" src="{{ site.baseurl }}/images/gd-project-image-1.jpg">
-<img class="ui small middle floated image" src="{{ site.baseurl }}/images/gd-project-image-2.jpg">
-<img class="ui small left floated image" src="{{ site.baseurl }}/images/gd-project-image-3.jpg">
+<img class="ui small left floated image" src="{{ site.baseurl }}/images/ktuh.png">
