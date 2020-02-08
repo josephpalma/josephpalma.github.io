@@ -1,22 +1,29 @@
 ---
 layout: project
 type: project
-image: images/Adobe-Red-02.jpg
-title: Graphic Design
-permalink: projects/graphicdesign
+image: images/apple-touch-icon-180x180.png
+title: KTUH Website
+permalink: projects/ktuh
 # All dates must be YYYY-MM-DD format!
-date: 2014-04-12
+date: 2020-02-08
 labels:
-  - Adobe
-  - Photoshop
-  - Illustrator
-summary: I produce high quality professional graphics for businesses, artists and DJ's.
+  - React
+  - Bootstrap
+  - Wordpress
+summary: Working with a team of 3 improved usability, automation, and scalability in a feature rich web application. 
 ---
 
-I have access to the full Adobe Creative Cloud Suite and an expanding collection of premium fonts, brushes, vector images and assets. I also have a background in painting, drawing and photography and a solid understanding of design and material theory. The Adobe Suite is a powerful tool for designers, it amplifies web development and allows you to use custom photos for designs.
+Working with a team of 3, created a custom react theme with minimal dependency's. The theme was implemented in Wordpress for maximum usability.
 
-I first started with Adobe two years ago. My primary tools are Photoshop, Illustrator and Indesign. I produce high quality professional marketing designs, custom backgrounds, event posters and logos. 
+The website has hundreds of visitors at any given moment live streaming from the air. Station DJs maintain the site with blog posts, music reviews, events and podcasts. 
 
+Features include:
+  - Live streaming from the air
+  - Radio shows archived and available for download for one week
+  - Links Google Calendar to event page
+  - Themed background videos
+  
+  
 <img class="ui small left floated image" src="{{ site.baseurl }}/images/gd-project-image-1.jpg">
 <img class="ui small middle floated image" src="{{ site.baseurl }}/images/gd-project-image-2.jpg">
 <img class="ui small left floated image" src="{{ site.baseurl }}/images/gd-project-image-3.jpg">
